@@ -1,0 +1,1 @@
+{"routes":[{"src":"/","dest":"/index.html"},{"src":"/karaoke","dest":"/karaoke.html"},{"src":"/party","dest":"/party.html"},{"src":"/faq","dest":"/faq.html"},{"src":"/contact","dest":"/contact.html"},{"src":"/promotions","dest":"/promotions.html"},{"src":"/list","dest":"/list.html"},{"src":"/blog","dest":"/blog.html"}]}
